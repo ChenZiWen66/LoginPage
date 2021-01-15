@@ -1,7 +1,8 @@
 <template>
   <div>
-    这是一个测试界面
-<!--    {{letter}}-->
+    <el-row>
+      <el-button type="primary">这是一个默认按钮</el-button>
+    </el-row>
   </div>
 </template>
 
